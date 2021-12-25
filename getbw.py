@@ -30,4 +30,4 @@ if __name__ =='__main__':
     at_end=len(os.listdir('BlackWhite'))
     count= at_end-at_start
     print('')
-    print('Successfully converted '+ str(count)+ ' images in 'BlackWhite' folder.')
+    print('Successfully converted '+ str(count)+ " images in 'BlackWhite' folder.")
